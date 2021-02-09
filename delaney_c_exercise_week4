@@ -1,0 +1,4 @@
+list1= [15, 55, 75, 150]
+
+for x in list1:
+	print(x)
