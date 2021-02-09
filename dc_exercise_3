@@ -1,0 +1,7 @@
+a = 2020
+b = 2021
+
+if b > a:
+	print("2021 is better")
+elif a == b:
+	print("=2021 is going to be 2020 all over again")
